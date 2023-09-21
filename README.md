@@ -1,2 +1,1 @@
-# php-poo
-# php-poo
+# Curso de PHP - Programacion Orientada a Objetos
